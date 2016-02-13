@@ -1,0 +1,4 @@
+Error: etiqueta <hola> se intenta cerrar con </adios> en pos. 13
+Error: etiqueta <b> se intenta cerrar con </a> en pos. 32
+Error: intento de cerrar </grog> sin haberla abierto antes en pos. 6
+XML correcto
